@@ -59,6 +59,7 @@
 	name = "Retract incision"
 	implements = list(
 		TOOL_RETRACTOR = 75,
+		TOOL_IMPROVRETRACTOR = 70,
 		TOOL_SCREWDRIVER = 50,
 		TOOL_WIRECUTTER = 35,
 	)
